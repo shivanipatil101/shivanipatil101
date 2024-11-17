@@ -12,5 +12,5 @@ I'm a passionate **Frontend Developer** who loves crafting responsive and user-f
 
 ## 📫 Let's Connect!  
 - **LinkedIn:** https://www.linkedin.com/in/shivani-patil-20944824a/    
-- **Email:**shivanippatil866@gmail.com  
+- **Email:** shivanippatil866@gmail.com  
 
