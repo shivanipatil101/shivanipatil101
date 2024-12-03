@@ -6,8 +6,7 @@ I'm a passionate **Frontend Developer** who loves crafting responsive and user-f
 🚀 Always exploring new technologies and pushing boundaries in coding!
 
 ## 🛠️ Skills  
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js, Express  
+- **Frontend:** HTML, CSS, JavaScript, React    
 - **Tools:** Git, VS Code, Figma  
 
 ## 📫 Let's Connect!  
